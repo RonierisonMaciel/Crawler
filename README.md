@@ -1,9 +1,9 @@
 # Crawler Tutorial
 
-Clone the FastAPI server app (or create your `main.py` in Python).
+Clone the Crawler (or create your `script.py` in Python).
 
 ```bash
-git clone git@github.com:RonierisonMaciel/fastapi.git
+git clone git@github.com:RonierisonMaciel/crawler.git
 ```
 
 Create an environment virtual `venv`
