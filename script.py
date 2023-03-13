@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
-url = "https://www.modcs.org/?page_id=521"  # URL a ser verificada
+url = "https://www.seusite.com"  # URL a ser verificada
 invalid_urls = (
     []
 )  # Lista para armazenar as URLs com status code diferente de 200
