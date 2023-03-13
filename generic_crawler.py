@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 from urllib.parse import urlparse, urljoin
 
 # URL da página inicial
-url = "https://www.linkedin.com/feed/update/urn:li:activity:7041134492111020033/?origin=SHARED_BY_YOUR_NETWORK"
+url = "https://www.seusite.com"
 
 # lista para armazenar URLs válidos
 valid_urls = set()
