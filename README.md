@@ -1,6 +1,6 @@
 # Crawler Tutorial
 
-Clone the Crawler (or create your `script.py` in Python).
+Clone the Crawler.
 
 ```bash
 git clone git@github.com:RonierisonMaciel/crawler.git
